@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
+
+.title-logo {
+  height: 200px;
+  width: 525px;
+}
+
+
+.button {
+  border: none;
+  color:white;
+  padding: 15px 45px;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #ffef02;
+  cursor: pointer;
+}
+
+
+.quote-text {
+  padding-top: 150px;
+}
+
+.quote-image {
+  margin-left: 120px;
+  height: 391px;
+  width: 239px;
+}
